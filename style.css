@@ -1,0 +1,33 @@
+p{font-size:20px;
+color:red;}
+
+/* class名がついている要素のCSS */
+.container{
+    /* class名がついている要素のCSS */
+    border:  solid 1px;     /* 枠線指定 */
+    padding: 0 20px;        /* 余白指定 */
+    margin-bottom:  20px;   /* 要素同士の空き指定 */
+}
+
+.header{
+  border: 1px solid #aaa;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+
+}
+.main{
+  border: 1px solid #aaa;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+
+}
+
+.footer{
+  border: 1px solid #aaa;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+
+}
